@@ -1,8 +1,8 @@
 {
 	"packName": "poke8_data",
 	"packPublicName": "Pokemon [8 gens] Data Pack",
-	"versionName": "2.1",
-	"versionNumber": 23,
+	"versionName": "2.2",
+	"versionNumber": 24,
 	"compatibleBackups": ["poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 234,
